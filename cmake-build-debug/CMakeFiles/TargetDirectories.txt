@@ -1,0 +1,3 @@
+/home/fabrizio/Desktop/ADS/lc-display-706-fabriziofranco/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/home/fabrizio/Desktop/ADS/lc-display-706-fabriziofranco/cmake-build-debug/CMakeFiles/lc_display_706_fabriziofranco.dir
+/home/fabrizio/Desktop/ADS/lc-display-706-fabriziofranco/cmake-build-debug/CMakeFiles/edit_cache.dir
