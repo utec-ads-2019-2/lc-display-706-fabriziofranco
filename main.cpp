@@ -96,14 +96,7 @@ int main(){
             int ia = i - '0';
             salida+=" "+center(ia,size)+"  ";
         }
-        cout<<salida.substr(0, salida.size()-1);
-
-        cout<<endl;
-
-        salida="";
-
-
-
+        cout<<salida.substr(0, salida.size()-1); cout<<endl; salida="";
 
 
         for(int x=0;x<size;x++) {
